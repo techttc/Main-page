@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2026-09-30 00:28",
+    "name": "techttc.com/portfolio/projects/leadership",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -36,6 +36,16 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "6.1.12",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/carter-tappan-logo.jpg",
+    "mbrsiteDomain": "83n6vtmuub",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 6,
     "versionPublish": "6.1.12"
   },
