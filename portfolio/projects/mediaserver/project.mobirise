@@ -23,7 +23,7 @@
         "display7Font": "Jost",
         "display7Size": 1.4,
         "display4Font": "Jost",
-        "display4Size": 1.4,
+        "display4Size": "1.1",
         "isRoundedImages": true,
         "isRoundedButtons": true,
         "isLargeButtons": true,
